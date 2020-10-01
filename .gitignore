@@ -1,0 +1,8 @@
+.vs/
+packages/
+WebAppT1.Tests/bin/
+WebAppT1.Tests/obj/
+WebAppT1/bin/
+WebAppT1/obj/
+ShapeLogic/obj/
+ShapeLogic/bin/
